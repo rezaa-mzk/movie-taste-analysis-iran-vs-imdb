@@ -415,8 +415,8 @@ $$
 در این پروژه، امتیاز وزن‌دار به ازای هر فیلم و برای هر سه پلتفرم (دو ایرانی و IMDb) محاسبه شده است. در عملیات محاسبه، نحوه‌ی یافتن همه‌ی متغیرها به‌جز m مشخص است. برای تعیین m، از یک روش آماری مقاوم (Robust) استفاده شده است. این مقدار با محاسبه‌ی سه معیار مختلف و گرفتن میانه‌ی آن‌ها به‌دست می‌آید. این سه معیار عبارت‌اند از: محدوده‌ی میان‌چارکی (IQR)، میانگین به‌علاوه‌ی انحراف معیار (Mean + Standard Deviation) و صدک هفتاد و پنجم (75th Percentile).  
 
 $$
-m = \operatorname{Median}\left(Q_3 + 1.5 \times (Q_3 - Q_1),\ \mu + \sigma,\ P_{75}\right)
-$$  
+m = \text{Median}(Q_3 + 1.5 \times (Q_3 - Q_1),\, \mu + \sigma,\, P_{75})
+$$
 
 - Q1 = چارک اول داده‌ها (25th percentile)
 - Q3 = چارک سوم داده‌ها (75th percentile)
@@ -470,13 +470,7 @@ $$
 
 مشکلی که درباره فیلم‌های با امتیاز بالا و تعداد رأی‌دهنده‌ی کم داشتیم، در این حوزه نیز می‌تواند مشکل‌ساز باشد. در صورت رتبه‌بندی کارگردانان تنها بر اساس میانگین امتیاز ساخته‌هایشان، کارگردانانی که تعداد فیلم‌های کمتری با امتیازات نسبتاً خوب دارند، رتبه‌های بالا را به خود اختصاص می‌دهند. از این رو در رتبه‌بندی کارگردانان نیز، همانند رتبه‌بندی فیلم‌ها، از امتیاز وزن‌دار استفاده می‌کنیم تا رتبه بندی عادلانه‌تری داشته باشیم.  
 
-$$
-\text{Bayesian Average}
-=
-\frac{n}{n+m} \cdot \text{Mean Rating}
-+
-\frac{m}{n+m} \cdot C
-$$  
+$$ \text{Bayesian Average} = \frac{n}{n+m} \cdot \text{Mean Rating} + \frac{m}{n+m} \cdot C $$  
 
 - n: تعداد فیلم‌های هر کارگردان
 - m: آستانه‌ی اهمیت میانگین کل فیلم‌های مجموعه داده
@@ -492,40 +486,19 @@ $$
 
 یک فیلم خاص را در نظر بگیرید، اگر متغیر Weight Decay را ۰/۹ در نظر بگیریم نفر اول فهرست بازیگران وزن ۱، نفر دوم ۰/۹، نفر سوم ۰/۸۱، نفر چهارم ۰/۷۲۹ و الی آخر را خواهند داشت. این عدد را وزن بازیگر مذکور در فیلم مورد بررسی می‌نامیم.
 
-$$
-\text{Weight}
-=
-(\text{Weight Decay})^{\text{Index of actor's name in cast}}
-$$  
+$$\text{Weight} = (\text{Weight Decay})^{\text{Index of actor's name in cast}}$$  
 
 حال که وزن هر بازیگر را در دست داریم، به منظور محاسبه‌ی نسبت مشارکت بازیگر در موفقیت یا عدم موفقیت فیلم، هر وزن را بر مجموع اوزان بازیگران آن فیلم تقسیم می‌کنیم تا عددی بین ۰ و ۱ به دست آید.
 
-$$
-\text{Participation Weight}
-=
-\frac{\text{Weight}}
-{\sum \text{Weight}}
-$$
+$$\text{Participation Weight} = \frac{\text{Weight}}{\sum \text{Weight}}$$
 
 سپس عدد به دست آمده را در امتیاز وزن دار آن فیلم ضرب می‌کنیم تا سهم هر بازیگر از محبوبیت یا عدم محبوبیت فیلم مشخص شود.
 
-$$
-\text{Actor Contribution}
-=
-\text{Movie's Weighted Rate}
-\times
-\text{Participation Weight}
-$$
+$$\text{Actor Contribution}=\text{Movie's Weighted Rate}\times\text{Participation Weight}$$
 
 در نهایت سهم‌های به دست آمده برای هر بازیگر در مجموعه داده را جمع می‌کنیم و در فرمول میانگین بیزی استفاده می‌کنیم.  
 
-$$
-\text{Bayesian Average}
-=
-\frac{n}{n+m} \times \text{Sum of Actor's Contribution}
-+
-\frac{n}{n+m} \times C
-$$
+$$\text{Bayesian Average}=\frac{n}{n+m} \times \text{Sum of Actor's Contribution}+\frac{n}{n+m} \times C$$
 
 در این فرمول:
 
