@@ -36,17 +36,17 @@
 
 ### ۱۰ فیلم برتر
 
-![۱۰ فیلم برتر به انتخاب کاربران ایرانی](assets/report_1.jpg)  
+![1_The Dark Knight, 2_The Lord of the Rings: The Fellowship of the Ring, 3_Interstellar, 4_The Shawshank Redemption, 5_The Wild Robot, 6_The Lord of the Rings: The Return of the King, 7_Shutter Island, 8_The Lord of the Rings: The Two Towers, 9_Puss in Boots: The Last Wish, 10_Hacksaw Ridge](assets/report_1.jpg)  
 
-![۱۰ فیلم برتر به انتخاب کاربران imdb](assets/report_2.jpg)  
+![1_The Shawshank Redemption, 2_The Godfather, 3_The Dark Knight, 4_The Lord of the Rings: The Return of the King, 5_Pulp Fiction, 6_The Lord of the Rings: The Fellowship of the Ring, 7_Inception, 8_Schindler's List, 9_Fight Club, 10_The Godfather Part II](assets/report_2.jpg)  
 
 ### ۱۰ فیلم با بیشترین تعداد نظر (کامنت)
 
 در این قسمت فیلم‌هایی را می‌بینیم که درباره‌ی آن‌ها بیشترین تعداد نظر (کامنت) به ثبت رسیده است. اشاره به این موضوع که در اینجا فقط تعداد نظرها مورد بررسی بوده نه مثبت و منفی بودن آن‌ها، حائز اهمیت است.  
 
-![۱۰ فیلم با بیشترین تعداد نظر از کاربران ایرانی](assets/report_3.jpg)  
+![1_John Wick: Chapter 4, 2_Barbie, 3_Oppenheimer, 4_Fast X, 5_The Menu, 6_Guy Ritchie's The Covenant, 7_The Whale, 8_Everything Everywhere All at Once, 9_Avatar: The Way of Water, 10_Extraction II](assets/report_3.jpg)  
 
-![۱۰ فیلم با بیشترین تعداد نظر از کاربران imdb](assets/report_4.jpg)
+![1_Joker, 2_The Shawshank Redemption, 3_Avengers: Endgame, 4_The Dark Knight, 5_The Batman, 6_Zack Snyder's Justice League, 7_Star Wars: Episode IX - The Rise of Skywalker, 8_Dil Bechara, 9_Captain Marvel, 10_Wonder Woman 1984](assets/report_4.jpg)
 
 > در میان ۱۰ فیلم پربحث و نظر از طرف کاربران IMDb، چهار فیلم درباره شخصیت‌های کامیک دنیای DC، سه فیلم درباره شخصیت‌های کامیک دنیای Marvel و دو فیلم بر اساس رمان ساخته شده‌اند.  
 این فهرست شامل فیلم‌هایی است که در رسانه‌های نقد فیلم توسط منتقدان حرفه‌ای همچون نیویورک تایمز، رولینگ استون و ... بیشترین تعداد نقد را دریافت کرده‌اند.
@@ -55,7 +55,7 @@
 
 این فهرست شامل فیلم‌هایی است که در رسانه‌های نقد فیلم توسط منتقدان حرفه‌ای همچون نیویورک تایمز، رولینگ استون و ... بیشترین تعداد نقد را دریافت کرده‌اند.  
 
-![۱۰ فیلم با بیشترین نقد حرفه‌ای](assets/report_5.jpg)  
+![1_The Shape of Water, 2_Star Wars: Episode VII - The Force Awakens, 3_Mad Max: Fury Road, 4_Gravity, 5_Batman v Superman: Dawn of Justice, 6_Man of Steel, 7_Arrival, 8_Wonder Woman, 9_Star Wars: Episode VIII - The Last Jedi, 10_Promising Young Woman](assets/report_5.jpg)  
 
 ### تحلیل تفاوت و شباهت سلیقه‌ی سینمایی ایرانیان و کاربران IMDb  
 
@@ -65,51 +65,51 @@
 
 - بخش نخست شامل فیلم‌هایی است که هر دو گروه کاربران آن‌ها را دوست داشتند و درباره امتیازشان توافق نظر داشتند.  
 
-![۱۰ فیلمی که هر دو گروه کاربران دوست داشتند](assets/report_8.jpg)  
+![1_The Shawshank Redemption, 2_The Dark Knight, 3_The Godfather, 4_The Lord of the Rings: The Return of the King, 5_Interstellar, 6_The Lord of the Rings: The Fellowship of the Ring, 7_The Lord of the Rings: The Two Towers, 8_Forrest Gump, 9_Schindler's List, 10_Fight Club](assets/report_8.jpg)  
 
 - بخش دوم شامل فیلم‌هایی است که هر دو گروه کاربران درباره کیفیت پایین آن‌ها توافق داشتند و هیچ‌کدام آن‌ها را نپسندیدند.  
 
-![۱۰ فیلمی که نه کاربران ایرانی نه کاربران imdb دوست نداشتند](assets/report_9.jpg)
+![1_Madame Web, 2_Winnie-the-Pooh: Blood and Honey, 3_Joker: Folie à Deux, 4_Batman & Robin, 5_The Marvels, 6_Hellboy: The Crooked Man, 7_No One Will Save You, 8_The Last Airbender, 9_Meg 2: The Trench, 10_Knock at the Cabin](assets/report_9.jpg)
 
 > شاید جالب باشد بدانید که نقش بتمن/بروس وین را در فیلم بتمن و رابین ((1997) Batman & Robin) جورج کلونی بازی می‌کند.  
 
 - بخش سوم شامل فیلم‌هایی است که کاربران IMDb آن‌ها را پسندیدند، اما در فهرست مورد علاقه‌ی کاربران ایرانی جای نگرفتند.
 
-![۱۰ فیلمی که کاربران imdb دوست داشتند ولی کاربران ایرانی نه](assets/report_7.jpg)
+![1_Everything Everywhere All at Once, 2_American Beauty, 3_Get Out, 4_Snatch, 5_Challengers, 6_Monty Python and the Holy Grail, 7_Midsommar, 8_Death Proof, 9_Elvis, 10_Lost in Translation](assets/report_7.jpg)
 
 - بخش چهارم شامل فیلم‌هایی است که کاربران ایرانی آن‌ها را پسندیدند، اما کاربران IMDb نظر مساعدی به آن‌ها نداشتند.  
 
-![۱۰ فیلمی که کاربران ایرانی دوست داشتند ولی کاربران imdb نه](assets/report_6.jpg)
+![1_The Twilight Saga: New Moon, 2_Twilight, 3_The Twilight Saga: Breaking Dawn - Part 1, 4_The Twilight Saga: Eclipse, 5_Ghost Rider, 6_Grown Ups 2, 7_Eragon, 8_The Hangover Part III, 9_Pathaan, 10_Recep Ivedik 4](assets/report_6.jpg)
 
 > یک حقیقت جالب (Fun Fact) درباره فیلم «اراگون» (Eragon 2006): این فیلم بر اساس مجموعه رمان چهارجلدی «حلقه‌ی وراثت» (The Inheritance Cycle) نوشته‌ی کریستوفر پائولینی (Christopher Paolini) ساخته شده است. انتقاد اصلی به فیلم درباره نحوه‌ی اقتباس از کتاب است؛ منتقدان آن را تقلیدی از «جنگ ستارگان» در دنیای «ارباب حلقه‌ها» می‌دانند. کاربران عادی نیز معتقدند این فیلم به دلیل کوتاه بودن، نمی‌تواند داستان کتاب را به خوبی منتقل کند. با این حال، در سال ۲۰۲۰ کمپانی دیزنی که صاحب حقوق معنوی اثر است، تصمیم گرفت تا یک نسخه‌ی (Live Action) در بستر دیزنی پلاس (Disney Plus) برای این مجموعه رمان تولید کند.  
 
 ### برترین کارگردانان  
 
-![۱۰ کارگردان برتر به انتخاب کاربران ایرانی](assets/report_10.jpg)  
+![1_Christopher Nolan, 2_Peter Jackson, 3_Mel Gibson, 4_James Cameron, 5_Pete Docter, 6_Hayao Miyazaki, 7_Chris Sanders, 8_Kemp Powers, 9_David Yates, 10_Sam Hargrave](assets/report_10.jpg)  
 
-![۱۰ کارگردان برتر به انتخاب کاربران imdb](assets/report_11.jpg)  
+![1_Christopher Nolan, 2_Quentin Tarantino, 3_Lee Unkrich, 4_James Cameron, 5_Stanley Kubrick, 6_Frank Darabont, 7_Pete Docter, 8_Denis Villeneuve, 9_Peter Jackson, 10_Sergio Leone](assets/report_11.jpg)  
 
 ### برترین نویسندگان  
 
-![۱۰ نویسنده‌ی برتر به انتخاب کاربران ایرانی](assets/report_12.jpg)  
+![1_Jonathan Nolan, 2_Christopher Nolan, 3_J.R.R. Tolkien, 4_Philippa Boyens, 5_J.K. Rowling, 6_Steve Kloves, 7_Fran Walsh, 8_Pete Docter, 9_James Cameron, 10_T.S. Nowlin](assets/report_12.jpg)  
 
-![۱۰ نویسنده‌ی برتر به انتخاب کاربران imdb](assets/report_13.jpg)  
+![1_Jonathan Nolan, 2_Christopher Nolan, 3_J.R.R. Tolkien, 4_Quentin Tarantino, 5_Mario Puzo, 6_Pete Docter, 7_Philippa Boyens, 8_Stanley Kubrick, 9_Francis Ford Coppola, 10_Fran Walsh](assets/report_13.jpg)  
 
 ### محبوب‌ترین بازیگران  
 
-![۱۰ بازیگر زن برتر به انتخاب کاربران ایرانی](assets/report_14.jpg)  
+![1_Cate Blanchett, 2_Emma Watson, 3_Keira Knightley, 4_Helena Bonham Carter, 5_Scarlett Johansson, 6_Rachel McAdams, 7_Kate Winslet, 8_Sandra Bullock, 9_Anne Hathaway, 10_Jennifer Lawrence](assets/report_14.jpg)  
 
-![۱۰ بازیگر زن برتر به انتخاب کاربران imdb](assets/report_15.jpg)  
+![1_Scarlett Johansson, 2_Cate Blanchett, 3_Emma Watson, 4_Sigourney Weaver, 5_Kate Winslet, 6_Zoe Saldana, 7_Rachel McAdams, 8_Amy Adams, 9_Natalie Portman, 10_Emma Stone](assets/report_15.jpg)  
 
-![۱۰ بازیگر مرد برتر به انتخاب کاربران ایرانی](assets/report_16.jpg)  
+![1_Johnny Depp, 2_Brad Pitt, 3_Christian Bale, 4_Tom Hanks, 5_Leonardo DiCaprio, 6_Matt Damon, 7_Tom Cruise, 8_Adam Sandler, 9_Robert De Niro, 10_Morgan Freeman](assets/report_16.jpg)  
 
-![۱۰ بازیگر مرد برتر به انتخاب کاربران imdb](assets/report_17.jpg)  
+![1_Tom Hanks, 2_Brad Pitt, 3_Robert De Niro, 4_Leonardo DiCaprio, 5_Matt Damon, 6_Christian Bale, 7_Al Pacino, 8_Robert Downey Jr., 9_Harrison Ford, 10_Tom Cruise](assets/report_17.jpg)  
 
 > در بین بازیگران معرفی شده به عنوان بازیگران محبوب تنها دو بازیگر رنگین پوست حضور دارند، Morgan Freeman و Zoe Saldana  
 
 ### محبوب‌ترین ژانر‌ها  
 
-![محبوب‌ترین ژانر‌ها](assets/report_18.jpg)  
+![Iranian Users: 1_Animation, 2_Adventure, 3_Biography, 4_Drama, 5_Crime, IMDb Users: 1_Drama, 2_Biography, 3_Crime, 4_War, 5_Animation](assets/report_18.jpg)  
 
 ### تاثیر بودجه‌ی ساخت بر محبوبیت فیلم  
 
@@ -119,23 +119,23 @@
 
 ### محبوب‌ترین کشور‌های به جز هالیوود  
 
-![محبوب‌ترین کشور‌های تولید کننده‌ی فیلم به جز هالیوود برای هر دو گروه کاربران](assets/report_20.jpg)  
+![Iranian Users: 1_Japan, 2_South Korea, 3_Italy, 4_Iran, 5_Denmark, 6_Hong Kong, IMDb Users: 1_Italy, 2_Japan, 3_Brazil, 4_Sweden, 5_Germany, 6_Iran](assets/report_20.jpg)  
 
 ### محبوب‌ترین فیلم‌های کشورهای محبوب :)  
 
-![محبوب‌ترین فیلم‌های کشور‌های محبوب تولید‌کننده‌ی فیلم به انتخاب کاربران ایرانی](assets/report_21.jpg)  
+![Japan: 1_Grave of the Fireflies (1988), 2_Spirited Away (2001), 3_Suzume (2022), 4_Your Name. (2016), 5_Howl's Moving Castle (2004), South Korea: 1_Memories of Murder (2003), 2_I Saw the Devil (2010), 3_Train to Busan (2016), 4_The Gangster, the Cop, the Devil (2019), 5_Silenced (2011)](assets/report_21.jpg)  
 
-![محبوب‌ترین فیلم‌های کشورهای محبوب تولید کننده‌ی فیلم به انتخاب کاربران ایرانی](assets/report_22.jpg)  
+![Italy: 1_Cinema Paradiso (1988), 2_The Good, the Bad and the Ugly (1966), 3_Life Is Beautiful (1997), 4_For a Few Dollars More (1965), 5_Perfect Strangers (2016), Iran: 1_A Separation (2011), 2_About Elly (2009), 3_Children of Heaven (1997), 4_The Salesman (2016), 5_Close-Up (1990)](assets/report_22.jpg)  
 
-![محبوب‌ترین فیلم‌های کشورهای محبوب تولید کننده‌ی فیلم به انتخاب کاربران ایرانی](assets/report_23.jpg)  
+![Denmark: 1_The Promised Land (2023), 2_The Hunt (2012), 3_The Shadow in My Eye (2021), 4_The Last Client (2022), 5_A Beautiful Life (2023), Hong Kong: 1_Ip Man (2008), 2_Infernal Affairs (2002), 3_Ip Man 2 (2010), 4_Police Story (1985), 5_In the Mood for Love (2000)](assets/report_23.jpg)  
 
 > از ۵ فیلم محبوب کاربران ایرانی از کشور دانمارک ۴تا در ۵ سال گذشته ساخته شده‌اند.  
 
-![محبوب‌ترین فیلم‌های کشورهای محبوب تولید کننده‌ی فیلم به انتخاب کاربران imdb](assets/report_24.jpg)  
+![Italy: 1_The Good, the Bad and the Ugly (1966), 2_Life Is Beautiful (1997), 3_Once Upon a Time in the West (1968), 4_Cinema Paradiso (1988), 5_For a Few Dollars More (1965), Japan: 1_Spirited Away (2001), 2_Seven Samurai (1954), 3_Princess Mononoke (1997), 4_Grave of the Fireflies (1988), 5_Howl's Moving Castle (2004)](assets/report_24.jpg)  
 
-![محبوب‌ترین فیلم‌های کشورهای محبوب تولید کننده‌ی فیلم به انتخاب کاربران imdb](assets/report_25.jpg) 
+![Brazil: 1_City of God (2002), 2_Elite Squad (2007), 3_Elite Squad 2: The Enemy Within (2010), 4_The Way He Looks (2014), 5_Carandiru (2003), Sweden: 1_The Seventh Seal (1957), 2_Let the Right One In (2008), 3_The Girl with the Dragon Tattoo (2009), 4_Persona (1966), 5_Wild Strawberries (1957)](assets/report_25.jpg) 
 
-![محبوب‌ترین فیلم‌های کشورهای محبوب تولید کننده‌ی فیلم به انتخاب کاربران imdb](assets/report_26.jpg)  
+![Germany: 1_The Lives of Others (2006), 2_Downfall (2004), 3_Metropolis (1927), 4_M (1931), 5_All Quiet on the Western Front (2022), Iran: 1_A Separation (2011), 2_Children of Heaven (1997), 3_About Elly (2009), 4_The Salesman (2016), 5_Close-Up (1990)](assets/report_26.jpg)  
 
 > فیلم شماره‌ی سه «The Girl with the Dragon Tattoo»، دو سال قبل از نسخه‌ی هالیوودی آن با همین نام و با بازی Daniel Craig منتشر شده است.  
 
