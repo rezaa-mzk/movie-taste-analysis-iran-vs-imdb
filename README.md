@@ -14,6 +14,29 @@
 - ده‌ها یافته‌ی جذاب استخراج شد: از محبوب‌ترین فیلم‌ها گرفته تا محبوب‌ترین کشورهای سازنده‌ی فیلم به غیر از هالییوود و تاثیر بودجه بر محبوبیت فیلم‌ها
 - یافته‌ی اصلی: اگر یک فیلم مورد پسند کاربران جهانی باشد، تنها ۵۳٪ احتمال دارد که مورد پسند کاربران ایرانی هم قرار بگیرد — همبستگی سلیقه‌ها ضعیف است (اسپیرمن ۰.۴۰۷)  
 
+## ابزارهای مورد استفاده (Tech Stack)
+
+**Data Collection**
+
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+
+**Data Processing & Analysis**
+
+![Python](https://img.shields.io/badge/Python_3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+**Visualization**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+**Environment**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ## مقدمه
 پروژه‌ی خیلی دور خیلی نزدیک، پروژه‌ی تحلیل تفاوت سلیقه‌ی سینمایی دو دسته از کاربران می‌باشد، کاربران ایرانیِ دوتا از وبسایت‌های معروف دانلود فیلم و سریال و کاربران وبسایت IMDb.
 اگر شما هم خود را عضوی از جامعه‌ی فیلمبازان می‌دانید، مطمئنا برایتان پیش آمده که هنگام انتخاب یک فیلم برای تماشا، به امتیاز IMDb آن اعتماد کنید یا برای قانع کردن دوستتان برای تماشای یک اثر، از امتیاز IMDb آن به عنوان مرجع استفاده کنید. حتما شما هم در موارد بسیاری شاهد اختلاف نظر خود و دوستانتان با این عدد بوده‌اید. **اگر شما هم فیلم‌هایی در ذهن دارید که معتقدید لایق امتیاز IMDb بالاتری هستند یا به عکس، فیلمی دیده‌اید که به اندازه‌ی امتیازش نظرتان را جلب نکرده، این پروژه برای شماست**.  
